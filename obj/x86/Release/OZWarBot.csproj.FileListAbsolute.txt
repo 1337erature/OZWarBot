@@ -1,0 +1,9 @@
+C:\Users\Andrey\Dropbox\Projects\OZWarBot\OZWarBot\bin\Release\OZWarBot.exe.config
+C:\Users\Andrey\Dropbox\Projects\OZWarBot\OZWarBot\bin\Release\OZWarBot.exe
+C:\Users\Andrey\Dropbox\Projects\OZWarBot\OZWarBot\bin\Release\OZWarBot.pdb
+C:\Users\Andrey\Dropbox\Projects\OZWarBot\OZWarBot\bin\Release\WatiN.Core.dll
+C:\Users\Andrey\Dropbox\Projects\OZWarBot\OZWarBot\bin\Release\Interop.SHDocVw.dll
+C:\Users\Andrey\Dropbox\Projects\OZWarBot\OZWarBot\bin\Release\WatiN.Core.xml
+C:\Users\Andrey\Dropbox\Projects\OZWarBot\OZWarBot\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Andrey\Dropbox\Projects\OZWarBot\OZWarBot\obj\x86\Release\OZWarBot.exe
+C:\Users\Andrey\Dropbox\Projects\OZWarBot\OZWarBot\obj\x86\Release\OZWarBot.pdb
