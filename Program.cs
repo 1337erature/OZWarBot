@@ -31,7 +31,7 @@ namespace ConsoleApplication1
             System.Console.WriteLine("Инициализация IE...");
             //Инициализация ватина
             WatiN.Core.IE ieb = new IE("http://ozwar.ru/forum/index.php?app=core&module=global&section=login");
-            ieb.Visible = true;
+            ieb.Visible = false;
             int ii = 0;
             while (ii == 0)
             {
